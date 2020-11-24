@@ -1,0 +1,23 @@
+1606190055715	geckodriver	INFO	Listening on 127.0.0.1:54461
+1606190058822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sc1\\AppData\\Local\\Temp\\rust_mozprofileQ51oTE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606190065503	Marionette	INFO	Listening on port 54469
+1606190065980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1606190070721	Marionette	INFO	Stopped listening on port 54469
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606190087478	geckodriver	INFO	Listening on 127.0.0.1:54513
+1606190090358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sc1\\AppData\\Local\\Temp\\rust_mozprofilekJ1kt9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1606190096222	Marionette	INFO	Listening on port 54521
+1606190096545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1606190127992	Marionette	INFO	Stopped listening on port 54521
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
